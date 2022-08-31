@@ -11,8 +11,9 @@ Vinicius De Souza Nascimento
 <div align="left">
   <a href="https://github.com/viniciusouza19">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusouza19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
 </div>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusouza19&langs_count=8)](https://github.com/viniciusouza19/github-readme-stats)
   
 <div align="left">
   Tecnologias em aprendizado!!
@@ -27,4 +28,4 @@ Vinicius De Souza Nascimento
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusouza19&langs_count=8)](https://github.com/viniciusouza19/github-readme-stats)
+  
