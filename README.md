@@ -27,3 +27,4 @@ Vinicius De Souza Nascimento
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusouza19&langs_count=8)](https://github.com/viniciusouza19/github-readme-stats)
