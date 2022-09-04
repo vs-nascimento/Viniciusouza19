@@ -13,7 +13,7 @@ Vinicius De Souza Nascimento
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusouza19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusouza19&langs_count=8)](https://github.com/viniciusouza19/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusouza19&layout=compact)](https://github.com/viniciusouza19/github-readme-stats)
   
 <div align="left">
   Tecnologias em aprendizado!!
