@@ -1,4 +1,3 @@
-```markdown
 ## Vinicius De Souza Nascimento
 
 🚀 **Passionate mobile developer dedicated to crafting amazing user experiences. Currently, I work as a Junior Flutter Developer at JustApps, where I apply my skills in Dart and Flutter to develop robust and high-quality applications.**
@@ -39,4 +38,4 @@
 </div>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusouza19&layout=compact)](https://github.com/viniciusouza19/github-readme-stats)
-```
+
