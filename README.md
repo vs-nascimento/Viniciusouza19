@@ -1,4 +1,4 @@
-## Vinicius De Souza Nascimento
+## Vinicius Nascimento
 
 🚀 **Passionate mobile developer dedicated to crafting amazing user experiences. Currently, I work as a Junior Flutter Developer at JustApps, where I apply my skills in Dart and Flutter to develop robust and high-quality applications.**
 
